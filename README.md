@@ -176,4 +176,4 @@ plt.show()
 
 
 ## RESULT
-Include your result here
+Thus the python program to develop a neural network classification model is executed successfully
