@@ -41,9 +41,9 @@ Model Evaluation and Prediction – Evaluate performance using metrics and make 
 
 ## PROGRAM
 
-### Name:
+### Name:Janani saraswathi S
 
-### Register Number:
+### Register Number:212225230110
 
 ```
 import torch
